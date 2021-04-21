@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/background2.jpeg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -56,24 +56,27 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { width: 100%;  }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8)
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #ffffff;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
+   text-shadow: 0px 1px 2px rgba(0, 0, 0);
+   background-color: rgba(0, 0, 0, 0.6);
+   border-radius: 30px;
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: rgb(243, 243, 243);
+   font-weight: bolder;
 }
 header .banner-text hr {
    width: 60%;
@@ -282,10 +285,30 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /*----------------------------------------------*/
-/*	Skill Bars
+/*	Skill Logos
 /*----------------------------------------------*/
 
-.bars {
+/* Container Grid */
+/* Box with Logo and Name */
+.skills{
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   place-items: center;
+}
+
+.skillFigure{
+ margin: 15%;
+display:grid;
+grid-template-rows: 2fr 1fr;
+place-items: center;
+}
+
+.skills img{
+   width: auto;
+}
+
+
+/* .bars {
 	width: 95%;
 	float: left;
 	padding: 0;
@@ -294,8 +317,8 @@ ul#nav li.current a { color: #F06000; }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
-}
-.bars li {
+} */
+/* .bars li {
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
@@ -310,8 +333,8 @@ ul#nav li.current a { color: #F06000; }
 	font-weight: normal;
    position: relative;
 	top: -36px;
-}
-.bar-expand {
+} */
+/* .bar-expand {
    position: absolute;
    left: 0;
    top: 0;
@@ -323,7 +346,7 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
+} */
 /*
 .git {
   	-moz-animation: git 2s ease;
@@ -645,7 +668,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/backgroundTest.png) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -663,7 +686,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #fff;
+   color: rgb(17, 17, 17);
 }
 #testimonials h1 span { display: none; }
 #testimonials .header-col { padding-top: 9px; }
@@ -675,7 +698,7 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #fff;
+   color: rgb(14, 12, 12);
 }
 
 /*	Blockquotes */
@@ -691,14 +714,14 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color: rgb(49, 47, 47)
 }
 #testimonials blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
-   color: #fff;
+   color: rgb(58, 51, 51);
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,

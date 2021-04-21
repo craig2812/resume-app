@@ -1,50 +1,35 @@
 {
   "main": {
     "name":"Craig Farrell",
-    "occupation":"Software Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "occupation":"Full Stack Software Developer",
+    "description":"I'm looking for a challenge and environment in which I can excel",
+    "image":"craigCvPic.jpeg",
+    "bio":"I've done many things since leaving school, yet I've never found something which satifies my drive for problem solving and being creative. Recently completing a Physics degree with The Open University taught me that I crave learning new things and consistenly challenging myself. Problem solving is what I'm meant to be doing. The School of Code has given me the chance to propel myself into a career which feels like a match made in heaven.",
+    "contactmessage":"Feel free to reach out if you 'd like to talk",
+    "email": "craig2812@gmail.com",
+    "phone": "07488444881",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"52 Ambassador Avenue",
+      "city":"Birmingham",
+      "state":"West Midlands",
+      "zip": "B63 4JN"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.craigDoesDev.com",
+    "resumedownload":"https://www.canva.com/design/DAEbHQ7S-xY/MEYL7Itkpj3wD7G87fTJQA/view?utm_content=DAEbHQ7S-xY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/craig.farrell.984",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/craigfarrell/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/craig2812",
         "className":"fa fa-github"
       },
       {
@@ -55,94 +40,107 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of the coding languagues and technologies I have worked with...",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The Open University",
+        "degree":"BSc Hons Open STEM (Physics) 2:1",
+        "graduated":"Sep 2019",
+        "description":"I spent 2 1/2 years of my University education both travelling and living in South Korea. Most of all this taught me self motivation and time management. I also learnt some Qunatum Physics and did some writing about the possibilities of Quantum Teleportation too"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"School of Code",
+        "degree":"Full Stack Coding Bootcamp",
+        "graduated":"April 2021",
+        "description":"I learnt many technologies from React and C# to deployment methods and containerisation. But most importantly I learned how best to break down problems in manageable chuncks and improved my capabilities as a problem solver."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Click Travel",
+        "title":"Inside Sales Manager",
+        "years":"June 2018 - Dec 2020",
+        "description":"I leveraged my management experience to transform a solo sales effort into a team of 5 sales professionals, working and growing together."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Redwood Telemarketing",
+        "title":"Owner",
+        "years":"Dec 2013 - Dec 2015",
+        "description":"Redirected business strategy within first 3 months of stewardship, understanding a better gap was present in the market, and took this opportunity to grow the business and improve prospects, for new employees."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"GitHub",
+        "logo": "./images/logos/GitHub.png"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Javascript",
+        "logo":"./images/logos/javascript.png"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "logo":"./images/logos/react.png"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "logo":"./images/logos/css.png"
+      },
+     
+      {
+        "name":"C#",
+        "logo":"./images/logos/cSharp.png"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Unity",
+        "logo":"./images/logos/unity.png"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"PostgreSQL",
+        "logo":"./images/logos/postgreSQL.png"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Node.js",
+        "logo":"./images/logos/NodeJS.png"
+      },
+      {
+        "name":"Netlify",
+        "logo":"./images/logos/netlify.png"
+      },
+      {
+        "name":"Heroku",
+        "logo":"./images/logos/Heroku.png"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Squat Song Seletcor",
+        "category":"Enter a number of Squats you need to do and get a song the length of time you need",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"TravelSafe",
+        "category":"School of Code Final Project",
+        "image":"travelSafeSnap.png",
+        "url":"https://travel-safe-cohort5.netlify.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Netflix Clone",
+        "category":"A React based clone of the Netflix website",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"SuperFrog",
+        "category":"A Unity and C# based 2D side scroller game",
         "image":"resume-website.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
+        "title":"CheckIN",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
         "url":"http://www.smirkspace.com"
@@ -152,12 +150,16 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"I started working with Craig in Jan of 2019 when I started working for Click Travel. I had never worked in the travel industry before and straight away Craig made me feel welcome and helped ease me into a new sector. His managerial skills are second to none. He understands and listens to everything he is told and uses his vast knowledge on how to maybe change the smallest of things for the biggest difference. I have worked with many managers during my career and have never come across anyone with his level of understanding, knowledge, and compassion. his willingness to learn and improve his skill set means he is the ideal candidate for any role",
+        "user":"Kae Bloor"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"I would have absolutely no hesitation in recommending Craig. Not only is he everything you would want in your team, hardworking, committed and driven, I have witnessed first hand how he uses his passion and energy to create new teams, drive results and truly lead by example. Craig has an intelligent mindset and an amazing ability to interpret complex tasks / projects and position them in simpler terms to help understanding and gain buy-in from those around him. Wherever Craig goes next, I am confident he will be a great success and you will be very lucky to have him as part of your team",
+        "user":"Vicki Williams"
+      },
+      {
+        "text":"You can find more testimonials on my LinkedIn should you wish to delve a bit further.",
+        "user":"Craig Farrell"
       }
     ]
   }
