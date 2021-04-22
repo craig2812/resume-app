@@ -118,8 +118,8 @@
       {
         "title":"Squat Song Seletcor",
         "category":"Enter a number of Squats you need to do and get a song the length of time you need",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"SSSC.png",
+        "url":"https://github.com/craig2812/SquatSongSelecter"
       },
       {
         "title":"TravelSafe",
@@ -128,22 +128,22 @@
         "url":"https://travel-safe-cohort5.netlify.app/"
       },
       {
-        "title":"Netflix Clone",
+        "title":"Nfx Clone (ETA: July 2021)",
         "category":"A React based clone of the Netflix website",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"WiP.jpeg",
+        "url":"https://github.com/craig2812/netflix-clone"
       },
       {
         "title":"SuperFrog",
         "category":"A Unity and C# based 2D side scroller game",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"SuperFrog.png",
+        "url":"https://github.com/craig2812/super-frogs-adventure-unity"
       },
       {
-        "title":"CheckIN",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"CheckIn (ETA: June 2021)",
+        "category":"A local busines sprject to enable digital check in for staff and visitors.",
+        "image":"WiP.jpeg",
+        "url":"https://github.com/craig2812/CheckIn"
       }
     ]
   },
@@ -156,10 +156,6 @@
       {
         "text":"I would have absolutely no hesitation in recommending Craig. Not only is he everything you would want in your team, hardworking, committed and driven, I have witnessed first hand how he uses his passion and energy to create new teams, drive results and truly lead by example. Craig has an intelligent mindset and an amazing ability to interpret complex tasks / projects and position them in simpler terms to help understanding and gain buy-in from those around him. Wherever Craig goes next, I am confident he will be a great success and you will be very lucky to have him as part of your team",
         "user":"Vicki Williams"
-      },
-      {
-        "text":"You can find more testimonials on my LinkedIn should you wish to delve a bit further.",
-        "user":"Craig Farrell"
       }
     ]
   }
