@@ -28,6 +28,11 @@ class Testimonials extends Component {
                       {testimonials}
                   </ul>
                </div>
+               <div className="moreInfo">
+            
+                      <h4>You can find some more testimonials <a href="https://www.linkedin.com/in/craigfarrell/">here</a>, on my LinkedIn page</h4>
+             
+               </div>
             </div>
          </div>
    </section>
