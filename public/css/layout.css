@@ -454,11 +454,13 @@ place-items: center;
 }
 
 /* Portfolio Content */
+
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
+   height: 100px;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;

@@ -118,8 +118,8 @@
       {
         "title":"Squat Song Seletcor",
         "category":"Enter a number of Squats you need to do and get a song the length of time you need",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"SSSC.png",
+        "url":"https://github.com/craig2812/SquatSongSelecter"
       },
       {
         "title":"TravelSafe",
@@ -128,22 +128,22 @@
         "url":"https://travel-safe-cohort5.netlify.app/"
       },
       {
-        "title":"Netflix Clone",
+        "title":"Nfx Clone (ETA: July 2021)",
         "category":"A React based clone of the Netflix website",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"WiP.jpeg",
+        "url":"https://github.com/craig2812/netflix-clone"
       },
       {
         "title":"SuperFrog",
         "category":"A Unity and C# based 2D side scroller game",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"SuperFrog.png",
+        "url":"https://github.com/craig2812/super-frogs-adventure-unity"
       },
       {
-        "title":"CheckIN",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"CheckIn (ETA: June 2021)",
+        "category":"A local busines sprject to enable digital check in for staff and visitors.",
+        "image":"WiP.jpeg",
+        "url":"https://github.com/craig2812/CheckIn"
       }
     ]
   },
